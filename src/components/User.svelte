@@ -2,7 +2,7 @@
 <section>
     <div class="top-container">
         <div class="avatar">
-            <img src="static/images/image-jeremy.png" alt="Jeremy Robson">
+            <img src="images/image-jeremy.png" alt="Jeremy Robson">
         </div>
         <div class="title">Report for</div>
         <div class="name">Jeremy <br> Robson</div>
