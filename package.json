@@ -1,0 +1,25 @@
+{
+  "name": "time-tracking-dashboard",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview",
+    "lint": "eslint --ignore-path .gitignore ."
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^13.0.5",
+    "@sveltejs/kit": "next",
+    "eslint": "^7.32.0",
+    "eslint-plugin-svelte3": "^3.2.1",
+    "rollup": "^2.57.0",
+    "rollup-plugin-svelte": "^7.1.0",
+    "svelte": "^3.42.6"
+  },
+  "type": "module",
+  "dependencies": {
+    "node-sass": "^6.0.1",
+    "sass": "^1.42.1",
+    "svelte-preprocess": "^4.9.5"
+  }
+}
